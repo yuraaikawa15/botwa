@@ -1,0 +1,27 @@
+{
+  "ownerNumber": "6285754044128@s.whatsapp.net",
+  "ownerName": "yurea",
+  "botName": "Yuca Bot",
+  "packname": "follow",
+  "author": "@yuraca",
+  "pathimg": "./media/yoshino.jpg",
+  "apikey": {
+    "caliph": "caliphkey",
+    "miko": "Mikokey"
+  },
+  "hmm": {
+    "yt": "https://youtube.com/@tfkentertainmentoff",
+    "ig": "https://instagram.com/favmerani_",
+    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+  },
+  "donasi": {
+	"dana": "085754304881",
+	"gopay": "085754044128"
+  },
+  "gamewaktu": 90,
+  "limitCount": 50,
+  "gcount": {
+	"prem": 50,
+	"user": 50
+  }
+}
